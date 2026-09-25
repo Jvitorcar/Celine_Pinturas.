@@ -1,0 +1,16 @@
+CONHEÇA MEU ATELIÊ (fotos) + CARTAZES DOS VÍDEOS
+================================================
+Fotos da seção "Conheça meu ateliê" — o ESPAÇO da Celine (espaco-01.jpg ...).
+Também ficam aqui os "cartazes" dos vídeos (poster-*.jpg), que é a imagem que
+aparece antes de dar play.
+
+Esta seção é um CARROSSEL que mistura fotos e vídeos numa lista só:
+  conteudo.js  ->  bloco "espaco.itens".
+
+Para ADICIONAR uma foto: suba o .jpg aqui e copie uma linha de foto no bloco, ex.:
+  { tipo: "foto", src: "assets/images/espaco/espaco-16.jpg", alt: "descrição" },
+Para REMOVER: apague a linha do item no conteudo.js.
+Para REORDENAR: recorte e cole a linha inteira para cima/baixo.
+
+As fotos NUNCA cortam rostos (cada uma mantém seu formato, em pé ou deitada).
+Fotos de iPhone (.HEIC): exporte como JPG antes de subir.

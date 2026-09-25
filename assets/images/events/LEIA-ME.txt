@@ -1,0 +1,9 @@
+PINTURA AO VIVO / EVENTOS
+=========================
+Fotos de pintura ao vivo em casamentos e eventos (ex.: evento-01.jpg ...).
+Já existem 10 fotos aqui, listadas em conteudo.js -> bloco "pinturaAoVivo.galeria".
+
+Para ADICIONAR: suba o arquivo .jpg aqui e copie uma linha no bloco "pinturaAoVivo.galeria".
+Para REMOVER: apague a linha correspondente no conteudo.js.
+As galerias usam layout "mosaico" e NUNCA cortam rostos (mostram a foto inteira).
+Fotos de iPhone (.HEIC): exporte como JPG antes de subir.

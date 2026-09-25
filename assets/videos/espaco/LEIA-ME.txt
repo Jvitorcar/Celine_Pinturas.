@@ -1,0 +1,21 @@
+CONHEÇA MEU ATELIÊ (vídeos) — HOSPEDADOS NO CLOUDINARY
+======================================================
+Os vídeos desta seção NÃO ficam mais aqui no GitHub (eram pesados demais).
+Eles estão hospedados no Cloudinary e o site toca direto de lá.
+
+Os links ficam no conteudo.js -> bloco "espaco.itens", assim:
+
+  { tipo: "video", fonte: "arquivo",
+    src: "https://res.cloudinary.com/.../meu-video.mp4",
+    cartaz: "assets/images/espaco/poster-meu-video.jpg",
+    titulo: "Legenda do vídeo" },
+
+PARA TROCAR/ADICIONAR um vídeo:
+  1) Suba o vídeo no Cloudinary (cloudinary.com) e copie o link do arquivo .mp4.
+  2) (Opcional, recomendado) acrescente "q_auto" no link, logo depois de
+     "/upload/", para o Cloudinary entregar já otimizado. Exemplo:
+       .../video/upload/q_auto/v123456/arquivo.mp4
+  3) Cole o link no campo "src" do item, no conteudo.js.
+
+O "cartaz" (poster-*.jpg) continua aqui nesta pasta de imagens do ateliê e é a
+foto que aparece antes de dar play. É opcional.

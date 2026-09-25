@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Celine Pinturas">
+  <rect width="64" height="64" rx="14" fill="#F7F2EA"/>
+  <path d="M32 12c11 0 20 7.5 20 17 0 6-5 9-10 9h-4c-2.5 0-4 1.7-4 4 0 1.6 1 2.6 1 4 0 2.7-1.8 4-3 4-11 0-20-8-20-19S21 12 32 12z" fill="#BF6B4B"/>
+  <circle cx="22" cy="26" r="3.2" fill="#5E7C8B"/>
+  <circle cx="33" cy="22" r="3.2" fill="#B36A75"/>
+  <circle cx="43" cy="27" r="3.2" fill="#8A9A82"/>
+  <circle cx="44" cy="37" r="3.2" fill="#BFA06A"/>
+</svg>

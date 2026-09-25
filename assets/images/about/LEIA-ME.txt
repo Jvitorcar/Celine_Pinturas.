@@ -1,0 +1,1 @@
+Coloque aqui a foto principal (hero.jpg) e o retrato da Celine (retrato.jpg). Veja conteudo.js, secoes 'hero' e 'sobre'.
